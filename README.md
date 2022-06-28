@@ -210,19 +210,25 @@ J.  Write code to address the following conditions with exception handling code:
 •  Confirm “Delete” actions
 
 Main
+
 ![Home](https://user-images.githubusercontent.com/87586209/176088341-edd32cd5-1e0b-4844-b5e4-0e4b77a5d025.png)
 
 Add Part
+
 ![AddPart](https://user-images.githubusercontent.com/87586209/176088354-e60dd329-0868-49ce-9672-68e5cb196465.png)
 
 Modify Part
+
 ![ModifyPart](https://user-images.githubusercontent.com/87586209/176088361-a51ab6f4-0879-46d9-bffc-4d0b66df7233.png)
 
 Add Product
+
 ![AddProduct](https://user-images.githubusercontent.com/87586209/176088374-06cdf8c1-cfcf-460b-b4b4-860ec8c82e23.png)
 
 Modify Product
+
 ![ModifyProduct](https://user-images.githubusercontent.com/87586209/176088382-3fe2b47b-eb9a-4d50-a4f4-02556efc5954.png)
 
 Main (Search Results)
+
 ![MainSearch](https://user-images.githubusercontent.com/87586209/176088392-ea6d21d0-150f-466d-8941-1f9ae5f8d3c0.png)
